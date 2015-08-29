@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" tools:context=".MainActivity">
+    <item android:id="@+id/sortweight" android:title="Sort By Weight"
+        android:orderInCategory="100" app:showAsAction="never" />
+    <item android:id="@+id/sortname" android:title="Sort By Name"
+        android:orderInCategory="100" app:showAsAction="never" />
+    <item android:id="@+id/sortcost" android:title="Sort By Cost"
+        android:orderInCategory="100" app:showAsAction="never" />
+</menu>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Porter</string>
+
+    <string name="action_settings">Share Parcel</string>
+    <string name="sendsms">SEND SMS</string>
+    <string name="title_activity_details">Details</string>
+</resources>
